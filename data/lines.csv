@@ -1,0 +1,19 @@
+line_id,line_name,line_color,station_id,position
+L2,Yellow Line,yellow,KG,1
+L2,Yellow Line,yellow,ND,2
+L2,Yellow Line,yellow,RC,3
+L2,Yellow Line,yellow,CS,4
+L2,Yellow Line,yellow,HCC,5
+L3,Violet Line,violet,MDI,1
+L3,Violet Line,violet,JNB,2
+L3,Violet Line,violet,LPN,3
+L3,Violet Line,violet,KAL,4
+L4,Blue Line,blue,N18,1
+L4,Blue Line,blue,MDI,2
+L4,Blue Line,blue,RC,3
+L4,Blue Line,blue,CP,4
+L4,Blue Line,blue,DWK,5
+L5,Green Line,green,KRT,1
+L5,Green Line,green,RC,2
+L5,Green Line,green,CP,3
+L5,Green Line,green,ASP,4
