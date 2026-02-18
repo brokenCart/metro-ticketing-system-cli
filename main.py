@@ -1,3 +1,7 @@
+# Added this to display plots
+import matplotlib
+matplotlib.use("TKAgg")
+
 import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors
 import networkx as nx
