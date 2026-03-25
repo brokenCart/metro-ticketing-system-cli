@@ -12,8 +12,8 @@ A Python command-line application that simulates a metro ticketing system with s
 
 ## Installation
 ```bash
-git clone https://github.com/brokenCart/metro-ticketing-system-cli.git
-cd metro-ticketing-system-cli
+git clone https://github.com/brokenCart/metro_ticketing_system_cli.git
+cd metro_ticketing_system_cli
 python -m venv venv
 source venv/bin/activate   # Mac/Linux
 venv\Scripts\activate      # Windows
